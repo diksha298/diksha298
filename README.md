@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here is my [LinkedIn Profile](https://www.linkedin.com/in/diksha-soni29/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+<img src= "https://github-readme-stats.vercel.app/api?username=diksha298&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 ## Bye
